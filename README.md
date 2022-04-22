@@ -1,1 +1,1 @@
-# libft42
+# 42cursus
